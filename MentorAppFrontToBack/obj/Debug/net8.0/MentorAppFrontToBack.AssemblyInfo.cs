@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentorAppFrontToBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600ed1d1bb6351e63d28d33666000400b8b7d7aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentorAppFrontToBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentorAppFrontToBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

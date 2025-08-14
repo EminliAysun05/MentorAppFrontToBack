@@ -134,3 +134,4 @@ C:\Users\namjoon\source\repos\MentorAppFrontToBack\MentorAppFrontToBack\bin\Debu
 C:\Users\namjoon\source\repos\MentorAppFrontToBack\MentorAppFrontToBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\namjoon\source\repos\MentorAppFrontToBack\MentorAppFrontToBack\obj\Debug\net8.0\MentorAppFrontToBack.csproj.AssemblyReference.cache
 C:\Users\namjoon\source\repos\MentorAppFrontToBack\MentorAppFrontToBack\obj\Debug\net8.0\MentorAp.213C1083.Up2Date
+C:\Users\namjoon\source\repos\MentorAppFrontToBack\MentorAppFrontToBack\obj\Debug\net8.0\MentorAppFrontToBack.sourcelink.json

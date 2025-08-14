@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "TempData nümunəsi";
+}
+
+@if (TempData["Alert"] != null)
+{
+    <div style="padding:10px; background-color:lightyellow; border:1px solid #ccc;">
+        @TempData["Alert"]
+    </div>
+}
+else
+{
+    <p>TempData mövcud deyil (artıq istifadə olunub və silinib)</p>
+}
