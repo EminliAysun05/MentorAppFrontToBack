@@ -1,0 +1,92 @@
+﻿@using MentorAppFrontToBack.ViewModels
+@model HomeVm
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section id="hero" class="hero section dark-background">
+    <img src="~/assets/img/hero-bg.jpg" alt="" asp-append-version="true" data-aos="fade-in" />
+
+    <div class="container">
+        <h2 data-aos="fade-up" data-aos-delay="100">
+            @(Model?.Hero.Title ?? "Welcome")
+        </h2>
+
+        <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
+            <a href="@(Model?.Hero.ButtonLink ?? "#")" class="btn-get-started">
+                @(Model?.Hero.ButtonText ?? "Get Started")
+            </a>
+        </div>
+    </div>
+</section>
+<!-- Why Us Section -->
+<section id="why-us" class="section why-us">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="why-box">
+                    <h3>Why Choose Our Products?</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                        Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                    </p>
+                    <div class="text-center">
+                        <a href="#" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div><!-- End Why Box -->
+
+            <div class="col-lg-8 d-flex align-items-stretch">
+                <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+
+                    @foreach(var item in Model.WhyUs)
+                    {
+                        <div class="col-xl-4">
+                            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+								<i class="@item.IconUrl"></i>
+                                <h4>@item.Title</h4>
+                                <p>@item.Description</p>
+                            </div>
+                        </div>
+
+                        <!-- End Icon Box -->
+                    }
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /Why Us Section -->
+<!-- Features Section -->
+<section id="features" class="features section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+
+            @foreach(var item in Model.Services)
+            {
+                <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="features-item">
+                        <i class="@item.IconUrl" style="color: #ffbb2c;"></i>
+                        <h3><a href="" class="stretched-link">@item.Text</a></h3>
+                    </div>
+                </div>
+
+                <!-- End Feature Item -->
+            }
+          
+
+
+
+        </div>
+
+    </div>
+
+</section><!-- /Features Section -->
