@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\viewmodels\\pricingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\viewmodels\\pricingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\data\\mentorappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\data\\mentorappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\pricingpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\pricingpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\controllers\\datademocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\controllers\\datademocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\whyus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\data\\mentorappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\data\\mentorappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\mentorappfronttoback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|solutionrelative:mentorappfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C367D634-1551-4329-B71D-87CD3DE5FF2A}|MentorAppFrontToBack\\MentorAppFrontToBack.csproj|c:\\users\\namjoon\\source\\repos\\mentorappfronttoback\\mentorappfronttoback\\migrations\\20250814112025_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +134,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PricingVm.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\ViewModels\\PricingVm.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\ViewModels\\PricingVm.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\ViewModels\\PricingVm.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\ViewModels\\PricingVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:48:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "MentorAppFrontToBack\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T05:44:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:43:50.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250815053128_addingTable2.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\Migrations\\20250815053128_addingTable2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:31:28.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PricingPacket.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\PricingPacket.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\PricingPacket.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\PricingPacket.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\Entities\\PricingPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:22:47.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Pricing.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\Pricing.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Pricing.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\Entities\\Pricing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:19:42.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Packet.cs",
+              "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\Packet.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Packet.cs",
+              "RelativeToolTip": "MentorAppFrontToBack\\Entities\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:13:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ShowTempData.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\DataDemo\\ShowTempData.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\DataDemo\\ShowTempData.cshtml",
@@ -114,12 +233,11 @@
               "RelativeToolTip": "MentorAppFrontToBack\\Views\\DataDemo\\ShowTempData.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T12:12:12.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T12:12:12.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\DataDemo\\Index.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\DataDemo\\Index.cshtml",
@@ -127,25 +245,24 @@
               "RelativeToolTip": "MentorAppFrontToBack\\Views\\DataDemo\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T12:11:29.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T12:11:29.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "DataDemoController.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Controllers\\DataDemoController.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Controllers\\DataDemoController.cs",
               "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Controllers\\DataDemoController.cs",
               "RelativeToolTip": "MentorAppFrontToBack\\Controllers\\DataDemoController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T12:10:56.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "20250814112025_init2.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250814112025_init2.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Migrations\\20250814112025_init2.cs",
@@ -163,13 +280,14 @@
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\Service.cs",
               "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Service.cs",
               "RelativeToolTip": "MentorAppFrontToBack\\Entities\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T11:19:16.191Z"
+              "WhenOpened": "2025-08-14T11:19:16.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "20250814105140_AddNewTable.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250814105140_AddNewTable.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Migrations\\20250814105140_AddNewTable.cs",
@@ -181,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "HomeVm.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\ViewModels\\HomeVm.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\ViewModels\\HomeVm.cs",
@@ -193,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "WhyUs.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\WhyUs.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\WhyUs.cs",
@@ -205,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\Home\\Index.cshtml",
@@ -217,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Controllers\\HomeController.cs",
@@ -225,12 +343,11 @@
               "RelativeToolTip": "MentorAppFrontToBack\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:29:47.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T10:29:47.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "20250814102249_init.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Migrations\\20250814102249_init.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Migrations\\20250814102249_init.cs",
@@ -242,19 +359,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MentorAppDb.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Data\\MentorAppDb.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Data\\MentorAppDb.cs",
               "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Data\\MentorAppDb.cs",
               "RelativeToolTip": "MentorAppFrontToBack\\Data\\MentorAppDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:14:47.872Z"
+              "WhenOpened": "2025-08-14T10:14:47.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "MentorAppFrontToBack.csproj",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\MentorAppFrontToBack.csproj",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\MentorAppFrontToBack.csproj",
@@ -266,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Entities\\Hero.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Entities\\Hero.cs",
@@ -278,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\_ViewStart.cshtml",
@@ -290,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\appsettings.json",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\appsettings.json",
@@ -302,31 +420,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "MentorAppFrontToBack\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:04:47.97Z"
+              "WhenOpened": "2025-08-14T10:04:47.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "MentorAppFrontToBack\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T10:01:37.389Z"
+              "WhenOpened": "2025-08-14T10:01:37.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\MentorAppFrontToBack\\MentorAppFrontToBack\\Program.cs",
               "RelativeDocumentMoniker": "MentorAppFrontToBack\\Program.cs",
