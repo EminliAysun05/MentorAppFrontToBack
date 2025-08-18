@@ -1,10 +1,7 @@
 using EternaApp.Data;
-using EternaApp.Migrations;
-using EternaApp.Models;
 using EternaApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics;
 
 namespace EternaApp.Controllers;
 
@@ -21,7 +18,9 @@ public class HomeController : Controller
     {
         var vm = new HomeVm
         {
-            Sliders = await _eternaAppDbContext.Sliders.ToListAsync()
+            Sliders = await _eternaAppDbContext.Sliders.ToListAsync(),
+            Clients = await _eternaAppDbContext.Clients.ToListAsync(),
+            ClientLogoImages = await _eternaAppDbContext.ClientLogoImages.ToListAsync()
         };
 
         return View(vm);

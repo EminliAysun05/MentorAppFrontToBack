@@ -4,6 +4,7 @@ using EternaApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EternaApp.Migrations
 {
     [DbContext(typeof(EternaAppDbContext))]
-    partial class EternaAppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250818053947_addNewTablesInit0")]
+    partial class addNewTablesInit0
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -70,49 +73,6 @@ namespace EternaApp.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
-                });
-
-            modelBuilder.Entity("EternaApp.Models.Client", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Clients");
-                });
-
-            modelBuilder.Entity("EternaApp.Models.ClientLogoImages", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("ClientId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ClientId");
-
-                    b.ToTable("ClientLogoImages");
                 });
 
             modelBuilder.Entity("EternaApp.Models.Portfolio", b =>
@@ -174,17 +134,6 @@ namespace EternaApp.Migrations
                     b.ToTable("PortfolioImages");
                 });
 
-            modelBuilder.Entity("EternaApp.Models.ClientLogoImages", b =>
-                {
-                    b.HasOne("EternaApp.Models.Client", "Client")
-                        .WithMany("ClientLogoImages")
-                        .HasForeignKey("ClientId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Client");
-                });
-
             modelBuilder.Entity("EternaApp.Models.Portfolio", b =>
                 {
                     b.HasOne("EternaApp.Models.Category", "Category")
@@ -210,11 +159,6 @@ namespace EternaApp.Migrations
             modelBuilder.Entity("EternaApp.Models.Category", b =>
                 {
                     b.Navigation("Portfolios");
-                });
-
-            modelBuilder.Entity("EternaApp.Models.Client", b =>
-                {
-                    b.Navigation("ClientLogoImages");
                 });
 
             modelBuilder.Entity("EternaApp.Models.Portfolio", b =>
